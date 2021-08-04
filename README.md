@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Unit 12—Tales from the Crypto
 
 ![Stock Sentiment](Images/sentimental.jpeg)
@@ -102,3 +103,7 @@ The free developer version of the News API limits the total daily requests, so b
 ---
 
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+=======
+# NLP_Homework
+## Tales from the Crypto
+>>>>>>> 0e727b734be19043103b4ceee95fc1bfe13b046b
